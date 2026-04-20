@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi 👋, I'm dtss
 
-<!--
-**dtss1/dtss1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **PWN**
+- 🔭 I'm a **CTF player**
+- 💻 Passionate about **Reverse Engineering, Digital Forensics, and Web Security**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h3 align="left">Languages & Tools:</h3>
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://en.cppreference.com/w/c/language" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://ghidra-sre.org/" target="_blank" rel="noreferrer">
+    <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Ghidra_logo.svg" alt="ghidra" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/gdb/" target="_blank" rel="noreferrer">
+    <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Logo_GDB_SVG.svg" alt="gdb" width="40" height="40"/>
+  </a>
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
+    <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Wireshark_Logo.svg" alt="wireshark" width="40" height="40"/>
+  </a>
+  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
+    <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/BurpSuite_logo.svg" alt="burp suite" width="40" height="40"/>
+  </a>
+</p>
